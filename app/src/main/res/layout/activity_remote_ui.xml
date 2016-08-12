@@ -10,7 +10,6 @@
     tools:context="kushabk.com.remoteui.RemoteUI"
     android:background="#010000">
 
-
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -62,4 +61,5 @@
         android:layout_below="@+id/button3"
         android:layout_toLeftOf="@+id/button3"
         android:layout_toStartOf="@+id/button3" />
+        
 </RelativeLayout>
